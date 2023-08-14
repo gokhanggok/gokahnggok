@@ -11,8 +11,7 @@ C / C++ / Python / Altium
 
 📫 How to reach me: gokhan.ggokk@gmail.com 
 
-[<img src='[[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png)https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png](https://github.com/gokhanggok/gokhanggok/blob/main/702300.png)' alt='linkedin' height='40'>](https://www.linkedin.com/in/gokhanggok/)  
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/gokhanggok/)  
 
 
 
