@@ -8,7 +8,9 @@ I am Gökhan from Turkey, and I graduated from the department of Electrical-Elec
 
 ## Skills
 - C
-- C++ / Python / Altium
+- C++
+- Python
+- Altium
 
 📫 How to reach me: gokhan.ggokk@gmail.com 
 
