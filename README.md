@@ -1,12 +1,12 @@
 ![Software & Electronics Engineer](https://github.com/gokhanggok/gokahnggok/blob/main/hello-world-1080.jpg)
 
-### Hi there 👋, I'm Gökhan Gök. 
-#### Software & Electronics Engineer
+# Gökhan Gök. 
+## Software & Electronics Engineer
 
 
 I am Gökhan from Turkey, and I graduated from the department of Electrical-Electronics Engineering in Ankara Yildirim Beyazit University. I really enjoy image processing, embedded software developing and machine learning. 
 
-### Skills 
+## Skills
 C / C++ / Python / Altium
 
 📫 How to reach me: gokhan.ggokk@gmail.com 
